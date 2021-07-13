@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chakradharsrinivas
 - 👀 I’m interested in building and learning new things
-- 🌱 I’m currently learning Bigdata
+- 🌱 I’m currently learning SEO
 - 💞️ I’m looking to collaborate on Full stack development
 - 📫 How to reach me 
 you can contact me on 
